@@ -159,14 +159,14 @@ These are auto-tagged using a lightweight AI model or rule-based classification.
 
 ---
 
-## 🔔 Slack & Webhook Integration
+##  Slack & Webhook Integration
 
 * **Slack Notifications**: Sent automatically when an email is categorized as **Interested**.
 * **Webhook Trigger**: Sends a JSON payload to `https://webhook.site/` (or your own endpoint) for automation.
 
 ---
 
-## 🧩 Frontend Features
+##  Frontend Features
 
 * Displays all synced emails (from multiple accounts)
 * Filters by account and folder
@@ -176,7 +176,7 @@ These are auto-tagged using a lightweight AI model or rule-based classification.
 
 ---
 
-## 💡 Bonus Feature (Optional)
+##  Bonus Feature (Optional)
 
 If implemented:
 
@@ -185,7 +185,7 @@ If implemented:
 
 ---
 
-## 🧪 Tech Stack
+##  Tech Stack
 
 **Backend:**
 
@@ -206,34 +206,19 @@ If implemented:
 
 ---
 
-## 📸 Demo Video
+##  Demo Video
 
 Add your 5-minute demo video link here:
 🎥 [Demo Video Link](https://your-demo-link-here.com)
 
 ---
 
-## 📋 Evaluation Checklist
 
-| Feature                      | Status        |
-| ---------------------------- | ------------- |
-| Real-time IMAP Sync          | ✅             |
-| Elasticsearch Search         | ✅             |
-| AI Categorization            | ✅             |
-| Slack & Webhook Integration  | ✅             |
-| Frontend UI                  | ✅             |
-| AI Suggested Replies (Bonus) | 🔄 (optional) |
-
----
-
-## 🧑‍💻 Author
+##  Author
 
 **Shrivatsa R S**
 B.E. Computer Science (2021–2025)
 Java Developer | Backend Engineer | AI Enthusiast
-📧 [[your.email@example.com](mailto:your.email@example.com)]
-🌐 [GitHub Profile](https://github.com/shrivatsa003)
+[[your.email@example.com](mailto:your.email@example.com)]
+[GitHub Profile](https://github.com/shrivatsa003)
 
-
-
-Would you like me to slightly **customize the README title and sections** with your **actual repo name (ReachInbox-Onebox)** and your **real demo video link** once you upload it?
