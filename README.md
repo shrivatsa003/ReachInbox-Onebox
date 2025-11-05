@@ -209,7 +209,7 @@ If implemented:
 ##  Demo Video
 
 Add your 5-minute demo video link here:
-🎥 [Demo Video Link](https://your-demo-link-here.com)
+🎥 [Demo Video Link](https://www.loom.com/share/2bc7fab15d744580b73b45a88052c2e4)
 
 ---
 
@@ -219,6 +219,6 @@ Add your 5-minute demo video link here:
 **Shrivatsa R S**
 B.E. Computer Science (2021–2025)
 Java Developer | Backend Engineer | AI Enthusiast
-[[your.email@example.com](mailto:your.email@example.com)]
-[GitHub Profile](https://github.com/shrivatsa003)
+
+
 
